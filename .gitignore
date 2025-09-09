@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider specific
+.idea/
+
+# Secrets (good practice to ignore)
+secrets.json
+appsettings.Development.json
